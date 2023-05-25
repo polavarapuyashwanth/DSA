@@ -39,6 +39,10 @@ public class ReverseLinkedList {
 }
 
 
+
+// This is Local class of linkedlist with some basic operations - Insert at Back and display.
+// In most cases this will be already given by test environment you can ignore it if you want.
+// we can also use built-in LinkedList class to define and do operations
 // Local implementation of LinkedList
 class LinkedListTemp{
     Node head;
